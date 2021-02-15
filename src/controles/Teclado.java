@@ -15,10 +15,7 @@ public class Teclado implements KeyListener{
       
       r1Arriba = teclas[KeyEvent.VK_W]; 
       r1Abajo = teclas[KeyEvent.VK_S];
-      
-      r2Arriba = teclas[KeyEvent.VK_UP];
-      r2Arriba = teclas[KeyEvent.VK_DOWN]; 
-      
+     
     }
     
     
