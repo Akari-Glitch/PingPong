@@ -8,8 +8,7 @@ public class Teclado implements KeyListener{
     public boolean salir; 
     public boolean r1Arriba; //raquete izquierda arriba
     public boolean r1Abajo; //raqueta izquierda abajo
-    public boolean r2Arriba; //raqueta derecha arriba
-    public boolean r2Abajo; //raqueta derecha abajo 
+ 
      
     public void actualizar(){
       salir = teclas[KeyEvent.VK_ESCAPE]; 
